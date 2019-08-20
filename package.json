@@ -1,0 +1,26 @@
+{
+  "name": "rn-progress-bar",
+  "version": "1.0.2",
+  "description": "A simple Progress bar for React Native applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/abhisheknairofficial/react-native-progressbar"
+  },
+  "keywords": [
+    "progressbar"
+  ],
+  "author": "Abhishek P",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "devDependencies": {
+    "react": "16.2.0",
+    "react-native": "^0.52.0"
+  }
+}
