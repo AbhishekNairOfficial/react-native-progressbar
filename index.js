@@ -17,7 +17,7 @@ const ProgressBar = props => {
   });
   return (
     <View style={{...styles.container,...style}}>
-      <View style={{...styles.progress,...styles.progress}} />
+      <View style={{...styles.progress,...styles.primary}} />
     </View>
   );
 };
